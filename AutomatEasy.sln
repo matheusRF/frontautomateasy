@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatEasy", "AutomatEasy\AutomatEasy.csproj", "{89BF2698-9518-4F06-B452-8EC169642180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BF2698-9518-4F06-B452-8EC169642180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BF2698-9518-4F06-B452-8EC169642180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BF2698-9518-4F06-B452-8EC169642180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BF2698-9518-4F06-B452-8EC169642180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0768AEC9-4539-4C33-9D76-9AB2A9C40374}
+	EndGlobalSection
+EndGlobal

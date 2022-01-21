@@ -1,0 +1,12 @@
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\bin\Debug\AutomatEasy.exe.config
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\bin\Debug\AutomatEasy.exe
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\bin\Debug\AutomatEasy.pdb
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.csprojAssemblyReference.cache
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.Form1.resources
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.Properties.Resources.resources
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.csproj.GenerateResource.cache
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.csproj.CoreCompileInputs.cache
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.exe
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.pdb
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.Form2.resources
+C:\Users\Matuca\source\repos\AutomatEasy\AutomatEasy\obj\Debug\AutomatEasy.Form3.resources
